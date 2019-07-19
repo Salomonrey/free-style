@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc788dce.chunk.css",
+    "main.js": "/static/js/main.d6973f6c.chunk.js",
+    "main.js.map": "/static/js/main.d6973f6c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.3feb8857.chunk.js": "/static/js/2.3feb8857.chunk.js",
+    "static/js/2.3feb8857.chunk.js.map": "/static/js/2.3feb8857.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2b15b3d22cc794905656bde5f9a30468.js": "/precache-manifest.2b15b3d22cc794905656bde5f9a30468.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bc788dce.chunk.css.map": "/static/css/main.bc788dce.chunk.css.map",
+    "static/media/admin.css": "/static/media/BebasNeueRegular.85b13a3b.ttf",
+    "static/media/blogpage.css": "/static/media/phoneimg.9015871a.png",
+    "static/media/app.css": "/static/media/TTNorms-Regular.eb6edc39.ttf",
+    "static/media/blogpagess.css": "/static/media/Ipadhpne.33aa8ebc.png",
+    "static/media/Divanuui.png": "/static/media/Divanuui.3d373a63.png",
+    "static/media/FB.png": "/static/media/FB.a186c391.png",
+    "static/media/Frees.mp4": "/static/media/Frees.54c00682.mp4",
+    "static/media/Gray2.png": "/static/media/Gray2.6b0255f1.png",
+    "static/media/Hole.png": "/static/media/Hole.e5be53f1.png",
+    "static/media/home-page.css": "/static/media/Phonename.da7243b1.png",
+    "static/media/IN.png": "/static/media/IN.68d57c92.png",
+    "static/media/Krovatit.png": "/static/media/Krovatit.8511479f.png",
+    "static/media/Kuhna.png": "/static/media/Kuhna.d8f819b2.png",
+    "static/media/Matrasci.png": "/static/media/Matrasci.31983086.png",
+    "static/media/PT.png": "/static/media/PT.98402200.png",
+    "static/media/Vannaua.png": "/static/media/Vannaua.55ebb559.png"
+  }
+}
