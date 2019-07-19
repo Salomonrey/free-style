@@ -1,0 +1,119 @@
+.Buttonchik{
+    position: absolute;
+    bottom: -50px;
+    right: 0;
+}
+.div_ochen{
+    position: relative;
+    width: 500px;
+    max-width: 100%;
+    margin:40px auto 0px auto;
+    height:auto;
+    text-align: justify;
+
+}
+.class_imgaes{
+    width:100px;
+    height: auto;;
+}
+.logo_admin1{
+    font-size:35px;
+    text-align: center;
+    color:rgba(73, 137,244,0.5);
+    font-family: "BebasNeueBold";
+    padding-top:20px;
+}
+.logo_admin1 span{
+    color:red;
+}
+.div_panel_admin{
+    width:1600px;
+    max-width: 100%;
+    height: auto;
+    margin:0 auto;   
+}
+.button_admin_panel{
+    width:100px;
+    height:30px;
+    font-family: "BebasNeueBold";
+    border:1px dashed rgba(73, 137,244,0.5);
+    background: none;
+    font-size:18px;
+    cursor: pointer;
+    transition: all .5s ease;
+}
+.button_admin_panel:hover{
+    border:1px dashed black;
+    color:rgba(73, 137,244,0.5);
+    transition: all .5s ease;
+}
+.Game_of_throne{
+  margin-top:40px;
+}
+.text_for_catalog{
+    font-size: 50px;
+    font-family: "BebasNeueBold";
+    padding-top:60px;
+}
+.button_for_new_article{
+    background:none;
+    font-size:17px;
+    font-family: "BebasNeueBold";
+    cursor:pointer;
+    margin-top:20px;
+}
+.button_change_delete_tog{
+    width:160px;
+    max-width: 100%;
+    font-size:17px;
+    font-family: "BebasNeueBold";
+    margin-top:10px;
+    background: none;
+}
+.button_change_delete_tog:last-child{
+    margin-left:10px;
+}
+.add_div_title{
+    font-weight: bold;
+    text-align: center
+}
+#testdata{
+    width: 1359px;
+    max-width: 100%;
+    margin:0 auto;
+    font-family: "TTNorms-Regular";
+}   
+#testdata p{
+    font-family: "TTNorms-Regular";
+    text-align: justify;
+    padding-bottom:20px;
+}
+.pooor_body_mainclass{
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+    font-family: "TTNorms-Regular";
+}
+
+@media(max-width:768px){
+    .pooor_body_mainclass{
+        font-size: 20px;
+            line-height: 24px;
+    }
+    #testdata{
+        width: 710px;
+        max-width: 100%;
+        height:auto;
+    }
+}
+@media(max-width:415px){
+    .pooor_body_mainclass{
+        font-size: 10px;
+        line-height: 12px;
+    }
+    #testdata{
+        width: 318px;
+        max-width: 100%;
+        height:auto;
+    }
+}

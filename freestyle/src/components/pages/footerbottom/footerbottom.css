@@ -1,0 +1,157 @@
+.footer_main_div_forall1{
+    width:100%;
+    max-width: 100%;
+    height:auto;
+    margin:0 auto;
+    background: #11191C;
+}
+.bottom_footer_panelnav1{
+    width:1102px;
+    max-width: 100%;
+    height: auto;
+    margin:0 auto;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.bottom_gooter_phone1{
+    margin-left:auto;
+    margin-top:30px;
+}
+.div_for_ul_fronav1{
+    width:450px;
+    margin-top:34px;
+    max-width: 100%;
+    height: auto;
+}
+.ul_fronav_footer1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.ul_fronav_footer123_li{
+    padding-left:51px;
+}
+.ul_fronav_footer1 li a{
+    font-size: 25px;
+    line-height: 37px;
+    font-family: "Circe-Regular";
+    text-decoration: none;
+    color:white
+}
+.bottom_gooter_phone1 a{
+    color:white;
+    font-size:20px;
+    font-family: "TTNorms-Bold";
+    line-height: 24px;
+    text-decoration: none;
+}
+.Logo_link_bottom_f1oter{
+   width:95%;
+   max-width: 100%;
+   height: auto;
+   display: flex;
+   margin:0 auto;
+}
+.Logo_link_bottom_f1oter div{
+    margin-left:auto
+}
+.Logo_link_bottom_f1oter div a{
+    color:white;
+    font-family: "Circe-Regular";
+    font-size: 30px;
+    text-decoration: none;
+}
+.div_for_projector_g{
+    padding-left:10px
+}
+.div_for_projector_g h3{
+    color:white;
+      font-family: "TTNorms-Regular";
+      font-size:20px;
+}
+.div_for_projector_g h3 span{
+    font-size:25px;
+}
+.last_div_for_fooe12ter{
+    width:1090px;
+    max-width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.div_for_imf_ins{
+    margin-left:auto;
+    margin-top:0px;
+    height:50px;
+
+}
+
+.div_for_imf_prints{
+    width:40px;
+    margin-left:9px;
+}
+.div_for_imf_feds2as{
+    width:40px;
+}
+.div_for_imf_ins2as{
+    width:50px;
+   
+}
+/* Медиа запросы */
+@media(max-width:790px){
+    .div_for_projector_g{
+        display: none;
+    }
+    .bottom_gooter_phone1{
+        display: none;
+    }
+    .div_for_imf_ins{
+        margin:0 auto;
+        margin-top:0px;}
+        .Logo_link_bottom_f1oter div a{
+            font-size:25px;
+            
+        }
+        .ul_fronav_footer1 li a{
+            font-size: 15px;
+            line-height: 22px;
+            
+        }
+        .div_for_ul_fronav1{
+            margin-left:48px;
+        }
+}
+@media(max-width:414px){
+    .div_for_projector_g{
+        display: none;
+    }
+    .div_for_ul_fronav1{
+        margin-left:8px;
+    }
+    .bottom_gooter_phone1{
+        display: none;
+    }
+    .ul_fronav_footer1{
+        display: block;
+      
+    }
+    .ul_fronav_footer123_li{
+        padding-left:0px;
+    }
+    .ul_fronav_footer1 li a{
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .Logo_link_bottom_f1oter div a{
+        font-size:18px;
+    }
+    .div_for_imf_ins{
+        margin:0 auto;
+        margin-top:opx;
+    }
+    .Logo_link_bottom_f1oter div{
+        margin-top:-40px;
+    }
+ 
+}

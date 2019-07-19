@@ -1,0 +1,322 @@
+.blog_main_content{
+    width:100%;
+    max-width: 100%;
+    height:100vh;
+    background:url("./img/Blogimg.png") center center no-repeat;
+    background-size: cover;
+}
+.wordtext_h1_one{
+    text-align: center;
+    color:white;
+    font-size:45px;
+    font-family: "TTNorms-Bold";
+    padding-top:455px;
+    line-height: 53px;
+}
+.wordtext_h2_one{
+    font-size:30px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "TTNorms-Regular";
+    padding-top:76px;
+}
+
+
+.classfor_ullu{
+    width:1400px;
+    max-width: 100%;
+    height: auto;
+    margin:46px auto 0px auto;
+    
+}
+.classfor_ullu ul{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap:wrap;
+    margin:0 auto;
+   
+}
+.fotofirstlive li{
+    margin:0 auto;
+    max-width: 100%;
+}
+.afterclick_button_class1{
+    font-size: 28px;
+    line-height: 35px;
+    background:none;
+    border:none;
+    color: #000000;
+    cursor: pointer;
+    width: 290px;
+    max-width: 100%;
+   padding:10px;
+height: auto;
+font-family: "TTNorms-Medium";
+background: rgba(196, 196, 196, 0.2);
+border-radius: 115px;
+}
+
+.normal_button_class1{
+    font-size: 28px;
+    padding:10px;
+    line-height: 35px;
+    background:none;
+    border:none;
+    color: #000000;
+    cursor: pointer;
+    width: 290px;
+    max-width: 100%;
+height: auto;
+font-family: "TTNorms-Medium";
+}
+.classfor_subtitle_for_sucat{
+    padding-bottom:100px;
+    font-size: 37px;
+    line-height: 47px;
+    color: #000000;
+    margin-top:10px;
+    position: relative;
+       font-family: "TTNorms-Bold";
+}
+.classfor_subtitle_for_sucat button{
+    background: none;
+    border:none;
+    max-width: 100%;
+    height:auto;
+    font-size: 30px;
+line-height: 41px;
+   font-family: "TTNorms-Regular";
+   cursor: pointer;
+
+color: #000000;
+
+}
+#div_for_subcategory{
+    width:1590px;
+    max-width: 100%;
+    height:auto;
+    
+    margin:30px auto 60px auto;
+}
+.div_for_img_posts_an{
+    display: flex;
+    width:1500px;
+    max-width: 100%;
+    height:auto;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.div_for_img_posts_an_single{
+    width:403px;
+    max-width: 100%;
+    height:auto;
+    margin:35px auto 0px auto;
+    cursor: pointer;
+
+}
+
+.div_for_img_posts_an_single img{
+    display:block;
+    width:403px;
+    height:250px;
+    max-width: 100%;
+}
+.hookfor_our_posts_title{
+    font-size: 30px;
+    line-height: 30px;
+    color: #000000;
+    padding-top:20px;
+    font-family: "TTNorms-Bold";
+}
+.hookfor_our_posts_discr{
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    font-family: "TTNorms-Regular";
+    padding-top:15px;
+    
+}
+.hookfor_our_posts_for_link{
+   bottom:0px;
+   right:10px;
+   position: absolute;
+}
+.hidden_element01{
+    display: none;
+}
+.dsadlw_linkPe{
+    height:100px;
+    font-size:20px;
+}
+/* Медиа */
+@media(max-width:1700px){
+    .div_for_img_posts_an_single:first-child{
+        margin:35px auto 0px auto;
+    }
+}
+@media(max-width:1250px){
+    .blog_main_content{
+        height:auto;
+        padding-bottom:40px;
+    }
+}
+@media(max-width:768px){
+    .classfor_subtitle_for_sucat button{
+        max-width: 100%;
+        font-size:20px;
+        line-height: 24px;
+    }
+    .hookfor_our_posts_title{
+        font-size: 20px;
+line-height: 24px;
+    }
+    .hookfor_our_posts_discr{
+        font-size: 10px;
+line-height: 12px;
+    }
+    .div_for_img_posts_an_single{
+        width:215px;
+        max-width: 100%;
+        height:auto;
+        margin:35px auto 0px auto;
+    }
+    .div_for_img_posts_an_single img{
+        display:block;
+        width:215px;
+        height:136px;
+        max-width: 100%;
+    }
+
+    .div_for_img_posts_an{
+        width:735px;
+        max-width: 100%;
+        height:auto;
+    }
+    #div_for_subcategory{
+        width:735px;
+        max-width: 100%;
+        height:auto;
+    }
+    .classfor_subtitle_for_sucat{
+        font-size: 25px;
+        line-height: 30px;
+        color: #000000;
+      
+    }
+    .classfor_ullu{
+        margin:19px auto 0px auto;
+    }
+    .afterclick_button_class1{
+        width: 173px;
+        height: auto;
+        max-width: 100%;
+          font-size: 16px;
+        line-height: 24px;
+    }
+    .normal_button_class1{
+        width: 173px;
+        height: auto;
+        max-width: 100%;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .blog_main_content{
+        background:url("./img/Blogimgipad.png") center center no-repeat;
+        background-size: cover; 
+        height:512px;
+    }
+    .wordtext_h1_one{
+        font-size:35px;
+        line-height: 41px;
+        padding-top:180px;
+    }
+    .wordtext_h2_one{
+        font-size:20px;
+        line-height: 24px;
+        padding-top:52px;
+    }
+}
+@media(max-width:414px){
+    .classfor_subtitle_for_sucat{
+        padding-bottom:40px;
+    }
+    .div_for_img_posts_an{
+        width:330px;
+        max-width: 100%;
+        height:auto;
+    }
+    #div_for_subcategory{
+        width:330px;
+        max-width: 100%;
+        height:auto;
+    }
+    .classfor_subtitle_for_sucat button{
+        max-width: 100%;
+        font-size: 15px;
+        line-height: 18px;
+    }
+    .hookfor_our_posts_title{
+        font-size: 15px;
+        line-height: 18px;
+    }
+    .hookfor_our_posts_discr{
+        font-size: 10px;
+        line-height: 12px;
+        
+    }
+    .div_for_img_posts_an_single{
+        width: 316px;
+        max-width: 100%;
+        height:auto;
+        margin:35px auto 0px auto;
+    }
+    .div_for_img_posts_an_single img{
+        display:block;
+        width: 316px;
+        height: 180px;
+        max-width: 100%;
+    }
+
+
+
+
+
+    .afterclick_button_class1{
+        width: 116px;
+        height: auto;
+        max-width: 100%;
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .normal_button_class1{
+        width: 116px;
+        height: auto;
+        max-width: 100%;
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .blog_main_content{
+        background:url("./img/phoneimg.png") center center no-repeat;
+        background-size: cover; 
+        height:259px;
+        padding-top:50px;
+    }
+    .wordtext_h1_one{
+        font-size:25px;
+        line-height: 30px;
+        padding-top:80px;
+    }
+    .wordtext_h2_one{
+        font-size:15px;
+        line-height: 18px;
+        width:330px;
+        max-width: 100%;
+        margin:0 auto;
+        padding-top:30px;
+        
+    }
+    .dudte1{
+        display: none;
+    }
+}

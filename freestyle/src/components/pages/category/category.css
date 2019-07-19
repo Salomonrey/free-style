@@ -1,0 +1,44 @@
+#main{
+    width:80%;
+    max-width: 100%;
+    margin:0 auto;
+}
+#main_meni_cat{
+    width:500px;
+    max-width: 100%;
+    height: auto;
+    margin:0 auto;
+}
+#new_category{
+    margin-top:150px;
+}
+#main_meni_cat input{
+    width:500px;
+    max-width: 100%;
+    height:45px;
+   
+    font-size: 18px; 
+    margin-top:20px;
+    padding:5px;
+}
+#new_category p{
+    text-align: center;
+}
+#main_meni_cat button{ 
+    width: 220px;
+    max-width: 100%;
+  
+    height: 30px;
+    font-size: 19px;
+    margin-top:20px;
+    font-family: "BebasNeueBold";
+    background: none;
+    cursor: pointer;}
+#cat_select_content select{
+    width:250px;
+    max-width: 100%;
+    height:35px;
+    font-family: "BebasNeueBold";
+    font-size: 19px;
+    margin-top:20px;
+}

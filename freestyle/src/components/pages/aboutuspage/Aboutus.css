@@ -1,0 +1,203 @@
+.blog_1112main_content1221{
+    width:100%;
+    max-width: 100%;
+    background-color:#11191C;
+    height:160px;
+}
+.margaritka_vartanovna{
+    background: none;
+}
+.flex_blox_for_abousu{
+    display:flex;
+    flex-wrap: wrap;
+    width:1700px;
+    max-width: 100%;
+    margin:70px auto 0px auto;
+    
+}
+.flex_blox_for_abousu_vidos{
+    width: 778px;
+    max-width: 100%;
+    height:auto;
+    margin:120px auto 0px auto;
+}
+.flex_blox_for_abousu_vidos1{
+    width: 778px;
+    max-width: 100%;
+    height:auto;
+    margin:0 auto;
+}
+.flex_blox_for_abousu_textis{
+    width:477px;
+    max-width: 100%;
+    margin:0 auto;
+}
+.nameofsongoffight{
+    text-align: center
+}
+.flex_blox_for_abousu_textis h1{
+    text-align: center;
+    font-size: 37px;
+    color: #000000;
+    font-family: "TTNorms-Bold";
+    line-height: 44px;
+}
+.nameofsongoffight11{
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    font-family: "TTNorms-Regular";
+    padding-top:32px;
+    text-align: justify;
+
+}
+.nameofsongoffight12{
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    font-family: "TTNorms-Regular";
+    padding-top:63px;
+    text-align: justify;
+
+}
+.nameofsongoffight button{
+    width: 283px;
+height: 77px;
+max-width: 100%;
+border: 3px solid #000000;
+background: none;
+font-size: 25px;
+line-height: 30px;
+color: #000000;
+font-family: "TTNorms-Regular";
+cursor: pointer;
+margin-top:60px;
+margin-bottom:33px;
+}
+/* Медиа */
+@media(max-width:768px){
+    .flex_blox_for_abousu_vidos{
+        width: 504px;
+        max-width: 100%;
+        height:auto;
+        margin:60px auto 0px auto;
+    }
+    .flex_blox_for_abousu_vidos1{
+        width: 504px;
+        max-width: 100%;
+        height:auto;
+        margin:0 auto;
+    }
+    .flex_blox_for_abousu{
+        margin:10px auto 0px auto;   
+    }
+    .flex_blox_for_abousu_textis h1{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .nameofsongoffight img{
+        width: 150px;
+        height:auto;
+    }
+    .flex_blox_for_abousu_textis{
+        margin:40px auto 0px auto;
+    }
+    .flex_blox_for_abousu_textis{
+        width:617px;
+        max-width: 100%;
+    }
+    .nameofsongoffight11{
+        font-size: 15px;
+        line-height: 18px;
+       
+        padding-top:9px;
+    
+    }
+    .nameofsongoffight12{
+        font-size: 15px;
+        line-height: 18px;
+       
+        padding-top:50px;
+    
+    }
+    .nameofsongoffight button{
+        width: 205px;
+height: 33px;
+font-size: 15px;
+line-height: 18px;
+margin-top:30px;
+    }
+}
+@media(max-width:414px){
+    .flex_blox_for_abousu_textis h1{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .flex_blox_for_abousu{
+        display:flex;
+        flex-wrap: wrap;
+        flex-direction:column;
+        margin:5px auto 0px auto;
+        
+    }
+    .flex_blox_for_abousu_vidos{
+        width: 289px;
+        max-width: 100%;
+        height:auto;
+        margin:20px auto;
+    }
+    .flex_blox_for_abousu_vidos1{
+        width: 289px;
+        max-width: 100%;
+        height:auto;
+        margin:0 auto;
+    }
+    .flex_blox_for_abousu_textis{
+        order:0;
+    }
+    .flex_blox_for_abousu_vidos{
+        order:1;
+    }
+    .flex_blox_for_abousu_textis{
+        width: 279px;
+        max-width: 100%;
+    }
+    .nameofsongoffight button{
+        display: none
+    }
+    .nameofsongoffight11{
+      
+    
+      
+        padding-top:32px;
+    
+    }
+    .nameofsongoffight12{
+      
+        padding-top:40px;
+    
+    }
+    .nameofsongoffight img{
+        width: 100px;
+        height:auto;
+    }
+}
+@media(max-width:910px){
+    .blog_1112main_content1221{
+        height:145px;
+    }
+}
+@media(max-width:1252px){
+    .flex_blox_for_abousu_vidos{
+        margin-top:20px;
+    }
+    .flex_blox_for_abousu_textis h1{
+        padding-top:10px;
+    }
+}
+@media(max-width:540px){
+.blog_1112main_content1221{
+    background:none;
+    height:85px;
+}
+}

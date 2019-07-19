@@ -1,0 +1,207 @@
+.header_top_for_all{
+   width:100%;
+   height: auto;
+   max-width: 100%;
+   margin:28px auto 0px auto;
+   position: fixed;
+   z-index: 1;
+   left:0;
+   right:0;
+}
+.header_top_for_all111{
+    display: flex;
+   width:97%;
+   max-width: 100%;
+   height: auto;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   margin:0 auto;
+}
+.navigation_menu_out{
+    width:450px;
+    max-width: 100%;
+    height: auto;;
+}
+.nav_link_divul{
+    display: flex;
+    flex-wrap: wrap;
+    height:auto;
+    margin-top:39px;
+}
+.div_img_logo{
+    margin-left:100px;
+}
+.nav_link_divul li a {
+    font-size: 25px;
+    font-family: "Circe-Regular";
+    color: #FFFFFF;
+    text-decoration: none;
+    line-height: 37px;
+}
+.margin-left_one_zise{
+    padding-left:50px;
+}
+.telefon_nubmer button{
+    width: 214px;
+    max-width: 100%;
+    height: 46px;
+    margin-top:25px;
+    border: 1px solid #FFFFFF;
+    background: none;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color:white;
+    color:white;
+    cursor:pointer;
+    font-family: "TTNorms-Bold";
+    text-decoration: none;
+}
+.disp_menu_for_phone{
+    display: none;
+}
+.link_hiden_logo_phone{
+    display: none;
+}
+.add_class_fro_scroll1{
+    background: #11191C;
+    margin:0 auto;
+    height:auto;
+    padding-bottom:20px;   
+}
+.add_class_fro_scroll4{
+    margin-top:33px;
+}
+.add_class_fro_scroll2{
+    display:none;
+}
+.add_class_fro_scroll3{
+    display:block;
+    margin-top:36px;
+}
+.add_class_fro_scroll3 a{
+    color:white;
+    text-decoration: none;
+    font-family: "Circe-Regular";
+    font-size:30px;
+}
+.add_class_fro_scroll5{
+    margin-top:5.5px;
+}
+.hodor_holdthedoor{
+    display: none;
+}
+.hodor_holdthedoor31{
+    width:100%;
+    max-width: 100%;
+    height:200px;
+    margin-top:6px;
+    background: #11191C;
+    opacity: 0;
+    transition: 3s linear;
+    animation: shadow  .3s  ease-out;
+    animation-fill-mode:forwards
+}
+@keyframes shadow{
+     100%{
+         
+        opacity: 1;
+     }
+}
+.hodor_holdthedoor13{
+    width:150px;
+    margin:0 auto;
+    max-width: 100%;
+}
+.hodor_holdthedoor13 ul li {
+    text-align: center;
+    padding-top:15px;
+}
+.hodor_holdthedoor13 ul li:first-child{
+    padding-top:25px;
+}
+.hodor_holdthedoor13 ul li a{
+    color:white;
+    text-decoration: none;
+    font-size:24px;
+    font-family: "Circe-Regular";
+   
+}
+/* Медиа запросы */
+@media(max-width:910px){
+    .nav_link_divul li a{
+        font-size:15px;
+    }
+    .add_class_fro_scroll3 a{
+        font-size:17px;
+    }
+    .telefon_nubmer button{
+        font-size:15px;
+        width:142px;
+        height: 29px;
+    }
+    .margin-left_one_zise{
+        padding-left:82px;
+    }
+    .nav_link_divul{
+        margin-top:25px;
+    }
+}
+@media(max-width:1859px){
+    .div_img_logo{
+        margin-left:0px;
+    }
+}
+@media(max-width:540px){
+    .header_top_for_all{
+        width:100%;
+        max-width: 100%;
+        background:#11191C;
+        margin-top:0px;
+        height:85px;
+        justify-content: flex-start;
+        
+    }
+    .add_class_fro_scroll1{
+        padding-bottom:0px;
+    }
+   .div_button_for_callbeck{
+       margin-left:-169px;
+       margin-top:25px;
+   }
+    .disp_menu_for_phone{
+        display: block;
+        margin-left:auto;
+        cursor: pointer;
+        margin-top:25px;
+        margin-right:15px;
+    
+    }
+    .div_img_logo{
+        display: none;
+    }
+    .navigation_menu_out{
+        display: none;
+      
+    }
+    .link_hiden_logo_phone{
+        display: block;
+        margin-left:15px;
+        margin-top:19px;
+       
+    }
+    .link_hiden_logo_phone a{
+        font-family: "Circe-Regular";
+        text-decoration: none;
+        color:white;
+        font-size:25px;
+    }
+}
+@media(max-width:743px){
+    .margin-left_one_zise{
+        padding-left:22px;
+    }
+    .navigation_menu_out{
+        width:250px;
+    }
+}

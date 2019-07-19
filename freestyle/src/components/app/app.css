@@ -1,0 +1,28 @@
+@font-face{
+    font-family: "Circe-Regular";
+    src:url("../../fonts/Circe-Regular.ttf") format("truetype");
+}
+@font-face{
+    font-family: "TTNorms-Bold";
+    src:url("../../fonts/TTNorms-Bold.ttf") format("truetype");
+}
+@font-face{
+    font-family: "TTNorms-Regular";
+    src:url("../../fonts/TTNorms-Regular.ttf") format("truetype");
+}
+@font-face{
+    font-family: "TTNorms-Medium";
+    src:url("../../fonts/TTNorms-Medium.ttf") format("truetype");
+}
+@font-face{
+    font-family: "ProximaNova-Bold";
+    src:url("../../fonts/ProximaNova-Bold.ttf") format("truetype");
+}
+@font-face{
+    font-family: "ProximaNova-Semibold";
+    src:url("../../fonts/ProximaNova-Semibold.ttf") format("truetype");
+}
+@font-face{
+    font-family: "ProximaNova-Regular";
+    src:url("../../fonts/ProximaNova-Regular.ttf") format("truetype");
+}

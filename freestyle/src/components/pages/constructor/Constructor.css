@@ -1,0 +1,154 @@
+.input_toggle{
+    width:40px
+}
+#input007{
+    width:600px;
+    max-width: 100%;
+    height:35px;
+    padding-left:5px;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+#input008{
+    width:1495px;
+    max-width: 100%;
+    height:55px;
+    padding-left:5px;
+    font-size: 18px; 
+    margin-top:20px;
+}
+#pozhaluista{
+    padding:10px;
+}
+.maining{
+    padding:10px;
+}
+.input_file_upload{
+    margin-top:10px;
+    font-size:18px;
+    font-family: "BebasNeueBold";
+  
+}
+.dcclclddchange_button{
+    width:500px;
+    height:150px;
+    max-width: 100%;
+}
+.button_img_upload{
+    width: 220px;
+    height: 25px;
+    font-size: 19px;
+    margin-left:5px;
+    font-family: "BebasNeueBold";
+    background: none;
+    cursor: pointer;
+}
+
+#subcat_select_content select{
+    width:400px;
+    max-width: 100%;
+    height:35px;
+    font-family: "BebasNeueBold";
+    font-size: 19px;
+   
+}
+#text_aria{
+    width:1570px;
+    max-width: 100%;
+    height: 400px;
+    padding-left:5px;
+    padding-top:5px;
+    font-size: 17px;
+}
+#clickbutton{
+    font-family: "BebasNeueBold";
+    width:200px;
+    max-width: 100%;
+    margin-top:10px;
+    font-size:19px;
+    background: none;
+    cursor: pointer;
+    height: 30px;
+}
+.button_submitinfoall{
+    width:200px;
+    max-width: 100%;
+    margin-top:5px;
+    font-size:19px;
+    height: 30px;
+    cursor: pointer;
+    background: none;
+    font-family: "BebasNeueBold";
+}
+textarea,textarea:active,textarea:focus{
+    outline: none
+}
+.flex_div_1{
+    display: flex;
+    margin-top:30px;
+}
+.div_chekboxes{
+    width:80px;
+}
+.class_fonts_normal{
+    font-style: normal;
+}
+.class_fonts_italica{
+    font-style: italic;
+}
+.class_fonts_bold{
+    font-weight: bold
+}
+.p_for_button_im{
+    text-align: center
+}
+.radio_button_chekke{
+    font-family: "BebasNeueBold";
+    font-size:19px;
+}
+.linkinpark{
+    width:150px;
+    max-width: 100%;
+    height: 30px;
+    margin-top:15px;
+    padding:5px;
+    font-size:17px;
+}
+.linkinpark1{
+    width:170px;
+    max-width: 100%;
+    height: 30px;
+    margin-top:15px;
+    padding:5px;
+    font-size:17px;
+    margin-left:10px;
+}
+.button_zero_linin{
+    background: none;
+    font-size:19px;
+    font-family: "BebasNeueBold";
+    width:200px;
+    margin-left:20px;
+}
+.main_foto{
+    width: 215px;
+    height: 136px;
+}
+#main_foto{
+    float: right;
+}
+#foto{
+    width:403px;
+    max-width: 100%;
+    height:auto;
+    margin:35px auto 0px auto;
+    cursor: pointer;
+
+}
+#foto img{
+    display:block;
+    width:403px;
+    height:250px;
+    max-width: 100%;
+}
